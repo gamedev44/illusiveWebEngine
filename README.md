@@ -224,6 +224,6 @@ document.addEventListener('keydown', function(event) {
 ---
 [GitHub](https://github.com/gamedev44)  
 gamedev44 - Overview  
-gamedev44 has 34 repositories available. Follow their code on GitHub.
+gamedev44 has 34 repositories available. Follow their code on GitHub...
 
 
