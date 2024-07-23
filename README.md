@@ -215,3 +215,15 @@ document.addEventListener('keydown', function(event) {
     }
 });
 ```
+## Contribute
+
+**License:** This project is semi-open source. Access will be granted to selected individuals and organizations after its initial release.
+
+**Contact:** For inquiries and collaborations, please contact Mr. Asterisk at [herrell4@gmail.com](mailto:herrell4@gmail.com).
+
+---
+[GitHub](https://github.com/gamedev44)  
+gamedev44 - Overview  
+gamedev44 has 34 repositories available. Follow their code on GitHub.
+
+
