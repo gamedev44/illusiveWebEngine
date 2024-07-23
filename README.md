@@ -1,4 +1,9 @@
-# Illusion Engine Documentation
+# A WEB-GPU PORT OF ILLUSION SDK.
+![Illusion Game Engine Logo](https://github.com/gamedev44/IE/blob/main/illusionlogo.png?raw=true)
+
+## by: Mr. Asterisk
+
+# Engine Documentation
 
 ## Overview
 
